@@ -1,35 +1,32 @@
-# PowerBI-Financial-Dashboard
-Financial Statement Dashboard
-Project Overview
-This project demonstrates the creation of an interactive financial dashboard in Power BI to visualize a company’s key financial metrics over a five-year period.
-Tools Used
-•	Excel
-•	Power BI Desktop
-•	DAX (Data Analysis Expressions)
-Dataset
-A fictional company financial dataset covering:
-•	Revenue
-•	COGS
-•	Operating Expenses
-•	Net Profit
-•	Total Assets
-•	Liabilities
-•	Equity
+# Financial Dashboard | Power BI
 
-Key KPIs
-•	Net Profit Margin
-•	Debt-to-Equity Ratio
-•	Return on Assets (ROA)
-Insights
-•	Revenue grew steadily at ~8% CAGR (2020–2024).
-•	Net Profit Margin improved from 14% to 16%.
-•	Debt-to-Equity ratio remained stable at ~0.7.
-•	ROA improved, showing better asset utilization.
-•	COGS rose proportionately but operating expenses grew slower.
-Business Impact
-This dashboard provides management with quick insights into financial health, supporting better strategic decisions.
-Dashboard Screenshot
- 
-Author
-Sakshi Wanjari
+## Project Overview
+This project presents an interactive Financial Dashboard built using Power BI to analyze key financial performance indicators. The dashboard helps visualize profitability, revenue trends, and expense composition to support better financial decision-making.
 
+## Key Metrics Analyzed
+- Net Profit Margin
+- Debt to Equity Ratio
+- Return on Assets (ROA)
+- Revenue vs Net Profit Trend
+- COGS vs Operating Expenses
+- Expense Composition
+
+## Dashboard Insights
+- Revenue and net profit trends from 2020 to 2024
+- Comparison between Cost of Goods Sold (COGS) and Operating Expenses
+- Expense distribution for financial analysis
+- Financial performance indicators for evaluating company profitability
+
+## Tools Used
+- Power BI
+- DAX
+- Excel (Data Source)
+
+## Dashboard Preview
+![Financial Dashboard](financial-dashboard.png)
+
+## Key Learnings
+- Creating KPI indicators for financial metrics
+- Financial ratio analysis using Power BI
+- Building interactive dashboards for business insights
+- Data visualization for financial performance tracking

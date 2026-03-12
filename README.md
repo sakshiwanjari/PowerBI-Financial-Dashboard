@@ -1,3 +1,4 @@
+![Financial Dashboard](financial-dashboard.png)
 # Financial Dashboard | Power BI
 
 ## Project Overview
@@ -21,9 +22,6 @@ This project presents an interactive Financial Dashboard built using Power BI to
 - Power BI
 - DAX
 - Excel (Data Source)
-
-## Dashboard Preview
-![Financial Dashboard](financial-dashboard.png)
 
 ## Key Learnings
 - Creating KPI indicators for financial metrics
